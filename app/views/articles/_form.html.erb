@@ -1,0 +1,5 @@
+<%= form_with(model: article, local: true) do |form| %>
+      <%= form.text_field :title, placeholder: "Title" %>
+      <%= form.text_area :text, placeholder: "text", rows: "10" %>
+      <%= form.submit "SEND" %>
+    <% end %>
