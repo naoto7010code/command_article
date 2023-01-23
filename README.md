@@ -40,6 +40,10 @@ https://user-images.githubusercontent.com/108635842/214105607-edf9a594-39b1-4806
 
 2.使い方や疑問点等についてコメントする
 
+
+https://user-images.githubusercontent.com/108635842/214107622-aef21085-7202-4bce-8f90-0d2e746dd2d3.mov
+
+
 # アプリケーションを作成した背景
 
 スマートフォン等の電子端末が普及している中で、使い方や便利な操作を知るための掲示板があるとよいと考え開発することにした。
@@ -54,17 +58,41 @@ https://docs.google.com/spreadsheets/u/0/d/134xzFRrH9MiHPwxDCdIpge9oMOTQVenv3ViS
 
 ・投稿機能
 
+https://user-images.githubusercontent.com/108635842/214105607-edf9a594-39b1-4806-b53e-1a73d0c63da1.mov
+
 ・削除機能
+
+
+https://user-images.githubusercontent.com/108635842/214108003-8bd8b355-3925-4f0c-ad6b-a9e6c307b23f.mov
+
 
 ・編集機能
 
+
+https://user-images.githubusercontent.com/108635842/214108435-f4a5e8a8-e747-4583-bbca-3591498b3d54.mov
+
+
 ・詳細表示機能
+
+
+https://user-images.githubusercontent.com/108635842/214109105-c5360b60-5793-4aca-9cb5-ad82d683e5d9.mov
+
 
 ・ユーザー新規登録機能/ログイン機能
 
+
+https://user-images.githubusercontent.com/108635842/214109503-b068fc70-74c5-46ee-bfbb-8551e762480d.mov
+
+
 ・コメント機能
 
+https://user-images.githubusercontent.com/108635842/214107622-aef21085-7202-4bce-8f90-0d2e746dd2d3.mov
+
 ・検索機能
+
+
+https://user-images.githubusercontent.com/108635842/214108663-b86e5acc-1c9b-4ba0-92d2-faac287220ec.mov
+
 
 # 実装予定の機能
 
