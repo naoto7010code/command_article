@@ -30,6 +30,10 @@ https://command-article.onrender.com/
 
 2.投稿ボタンから共有したい情報を投稿する
 
+
+https://user-images.githubusercontent.com/108635842/214105607-edf9a594-39b1-4806-b53e-1a73d0c63da1.mov
+
+
 ## コメント
 
 1.投稿の詳細画面に移動する
