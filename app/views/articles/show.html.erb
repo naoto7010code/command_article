@@ -12,6 +12,7 @@
     </div>
     <% end %>
     <p><%= @article.title %></p>
+    <p><%= @article.text %></p>
      <span class="title">
         <a href="/users/<%= @article.user.id %>">
           <span>投稿者</span><%= @article.user.username %>

@@ -1,0 +1,41 @@
+/* ヘッダー */
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 1366px;
+  padding: 0 100px 0 30px;
+  background-color: #DBDBDB;
+}
+
+.header a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.grid-6 {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 100px; 
+}
+
+.header_bar {
+  display: flex;
+}
+
+.username{
+  font-size: 18px;
+}
+
+/* フッター */
+.footer {
+  width: 1366px;
+  height: 70px;
+  background-color: #FAFAFA;
+}
+
+.copyright {
+  line-height: 70px;
+  text-align: center;
+  font-size: 16px;
+  color: #959393;
+}
