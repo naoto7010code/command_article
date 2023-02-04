@@ -6,5 +6,5 @@ class User < ApplicationRecord
   has_many :articles
   has_many :comments
 
-  validates :username, presence: true
+  validates :username, presence: true, length: { maximum: 6 }
 end
