@@ -12,10 +12,22 @@
   color: #000000;
 }
 
-.grid-6 {
-  font-size: 18px;
-  font-weight: 300;
+.logo {
+  font-size: 36px;
+  font-weight: 600;
   line-height: 100px; 
+}
+
+.grid {
+  height: 100px;
+  display: flex;
+}
+
+.grid-6 {
+  margin-left: 70px;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 100px;  
 }
 
 .header_bar {
